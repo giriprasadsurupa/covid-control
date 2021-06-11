@@ -1,0 +1,2 @@
+# covid-control
+go covid 
